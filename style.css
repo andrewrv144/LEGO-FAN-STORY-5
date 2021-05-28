@@ -45,6 +45,7 @@ nav {
 }
 
 nav a:hover {
+    box-shadov: 5px 5px 5px 0 blue;
     text-decoration: underline;
 }
 
